@@ -40,7 +40,7 @@ Random Forest performed better than Logistic Regression, especially in detecting
 
 ## Notebook
 The complete implementation is available on Kaggle:
-[Add your Kaggle notebook link here]
+[https://www.kaggle.com/code/jayshreerathore/phising-urls-01]
 
 ## Future Improvements
 - Add more URL-based features
