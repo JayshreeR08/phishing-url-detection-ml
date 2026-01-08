@@ -10,6 +10,7 @@ This project aims to classify URLs as phishing or legitimate using machine learn
 The dataset contains URLs labeled as phishing or legitimate.
 URLs are transformed into numerical features before training the model.
 
+
 ## Feature Engineering
 The following features were extracted from URLs:
 - URL length
